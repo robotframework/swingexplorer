@@ -6,4 +6,6 @@ This project exists to host the jar files from SwingExplorer, until the jar file
 
 Downloads are at [releases](https://github.com/robotframework/swingexplorer/releases/tag/1.6.0).
 
+For use instructions, see the [documentation from SwingLibrary wiki](https://github.com/robotframework/SwingLibrary/wiki/Getting-Started#swing-explorer).
+
 The swingexplorer is distributed with the [LGPL3 license](http://www.gnu.org/licenses/lgpl-3.0.en.html). The distributed jar files are unmodified version 1.6.0 files, which also contain the LGPL3 license inside.
