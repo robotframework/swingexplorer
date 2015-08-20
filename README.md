@@ -4,4 +4,4 @@ The swingexplorer project's [home page](http://www.swingexplorer.com) responds w
 
 This project exists to host the jar files from SwingExplorer, until the jar files are available again from the official homepage.
 
-The swingexplorer is distributed with the [GPL3 license](http://www.gnu.org/licenses/lgpl-3.0.en.html)
+The swingexplorer is distributed with the [LGPL3 license](http://www.gnu.org/licenses/lgpl-3.0.en.html) The distributed jar files are unmodified version 1.6.0 files, which also contain the LGPL3 license inside.
